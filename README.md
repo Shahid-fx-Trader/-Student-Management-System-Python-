@@ -65,7 +65,7 @@ This project helped in understanding:
 
 **Shahid Khan**
 🔗 GitHub: https://github.com/Shahid-fx-Trader
-🔗 LinkedIn: linkedin.com/in/shahid-khan-trader
+🔗 LinkedIn: https://linkedin.com/in/shahid-khan-trader
 
 ---
 
